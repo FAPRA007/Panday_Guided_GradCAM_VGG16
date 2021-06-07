@@ -9,9 +9,9 @@ Used GPU: Yes
 
 Versions Details:
 
-# packages in environment at C:\Users\Panday\anaconda3\envs\TFTest:
-#
-# Name                    Version                   Build  Channel
+ packages in environment at C:\Users\Panday\anaconda3\envs\TFTest:
+
+ Name                    Version                   Build  Channel
 _tflow_select             2.1.0                       gpu
 absl-py                   0.12.0           py36haa95532_0
 aiohttp                   3.7.4            py36h2bbff1b_1
